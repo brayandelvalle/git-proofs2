@@ -6,6 +6,7 @@ public class Din_Vector{
   int length;
   Scanner inputInt = new Scanner(System.in);                //For the length of the vector
   Scanner inputFlo = new Scanner(System.in);                //For the elements in the vector
+  int proofNUmber2 = 3;
   
   System.out.print("Length of the vector: ");
   length = inputInt.nextInt();
