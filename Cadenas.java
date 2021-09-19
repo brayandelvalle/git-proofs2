@@ -6,7 +6,7 @@ public class Cadenas{
   String name = "", name_part = "";  
   int len, from, to;
   Scanner entrada = new Scanner(System.in);
-  int proof_number = 5;
+  int proof_number = 7;
 
   System.out.print("Name: ");
   name = entrada.nextLine();
