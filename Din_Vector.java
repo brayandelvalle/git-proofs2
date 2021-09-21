@@ -10,7 +10,6 @@ public class Din_Vector{
   int proofNUmber2 = 13;
   int proofNUmber2 = 17;
  
-  
   System.out.print("Length of the vector: ");
   length = inputInt.nextInt();
   float vector[] = new float[length];                       //It's needed first to know the length of the vector
