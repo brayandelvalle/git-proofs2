@@ -7,6 +7,7 @@ public class Fibonacci{
   int length;
   float f0=0.0f, f1=1.0f, fn;
   //int f0=0, f1=1, fn; 
+  int proof_3 = 23;
   Scanner input = new Scanner(System.in);
 
   //Intro
